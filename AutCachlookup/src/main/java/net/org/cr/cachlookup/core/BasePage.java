@@ -137,4 +137,14 @@ public abstract class BasePage
         }
         return (By) elem;
     }
+
+    /**
+     * for testing....
+     */
+    public static class Main {
+        public static void main(String argv) {
+
+
+        }
+    }
 }
